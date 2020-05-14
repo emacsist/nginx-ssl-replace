@@ -1,0 +1,8 @@
+# remote dir
+# 目录不要 / 结尾
+
+SSL_DIR="/home/company/ssl"
+CRT_NAME="www.company.com.crt"
+KEY_NAME="www.company.com.key"
+NGINX_DIR="/home/company/nginx"
+SSH_PORT=22
